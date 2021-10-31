@@ -1,0 +1,15 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+li:hover {
+  background-color: lightgrey;
+}
+
+a {
+  color: red;
+}
+a:hover {
+  background-color: whitesmoke;        
+  border-radius: 10%;
+}
