@@ -7,9 +7,9 @@ li:hover {
 }
 
 a {
-  color: black;
+  color: red;
 }
 a:hover {
-  background-color: lavenderblush;        
+  background-color: whitesmoke;        
   border-radius: 10%;
 }
