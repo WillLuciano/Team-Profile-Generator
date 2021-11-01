@@ -8,7 +8,7 @@ Upon launching the app, the user is asked to describe the first member of their 
 
 A screenshot showing an example user input is shown below:
 
-[Screenshot of employee input](./assets/images/samplepage.png)
+![](./assets/images/samplepage.png)
 
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add.  If so, the user is asked the same questions about the new team member.  If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html."  A screenshot of an example team profile is shown below:
 
