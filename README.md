@@ -12,7 +12,7 @@ A screenshot showing an example user input is shown below:
 
 When all information on the team member has been entered, the user is asked whether there are any more members they would like to add.  If so, the user is asked the same questions about the new team member.  If not, an HTML file is created with cards displaying the information on all the team members entered by the user in the "outputs" folder titled "team.html."  A screenshot of an example team profile is shown below:
 
-![Video of test and HTML ](./assets/images/mod10assignment.mp4)
+[Video of test and HTML ](https://watch.screencastify.com/v/PqFZ01leaJsoE05T1Pwd)
 
 # Techniques/Technologies Used
 This app was created using Object-Oriented Programming concepts, namely using classes and constructors to create "team member" objects based on information entered by the user.  The app is run using Node.js, and uses the "Inquirer" and "FS" node modules.  Files for different objects are also stored in separate .js files and passed among one another using module.exports and require.
